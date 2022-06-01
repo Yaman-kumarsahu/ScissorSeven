@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About Project
+
+This is a project website for one of my favorite show 'Scissor Seven'. It is made using react.
+All the images are taken via URL, but you can also use local images in '..src/Images' that are downloaded from the same URLs.
